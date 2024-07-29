@@ -1,0 +1,27 @@
+2024/07/29-14:38:57.455 61df Reusing MANIFEST /home/elias/Documents/MyProjects/Wpp-Bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/29-14:38:57.456 61df Recovering log #369
+2024/07/29-14:38:57.636 61df Reusing old log /home/elias/Documents/MyProjects/Wpp-Bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000369.log 
+2024/07/29-14:39:01.364 61df Level-0 table #381: started
+2024/07/29-14:39:01.483 61df Level-0 table #381: 904129 bytes OK
+2024/07/29-14:39:01.507 61df Delete type=0 #369
+2024/07/29-14:39:01.515 61e9 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/29-14:39:14.509 61db Compacting 1@1 + 8@2 files
+2024/07/29-14:39:14.918 61db Generated table #382@1: 39478 keys, 2195341 bytes
+2024/07/29-14:39:15.153 61db Generated table #383@1: 3234 keys, 2162956 bytes
+2024/07/29-14:39:15.404 61db Generated table #384@1: 3255 keys, 2160006 bytes
+2024/07/29-14:39:15.696 61db Generated table #385@1: 18358 keys, 2205424 bytes
+2024/07/29-14:39:15.897 61db Generated table #386@1: 27821 keys, 2252004 bytes
+2024/07/29-14:39:16.055 61db Generated table #387@1: 43628 keys, 2178330 bytes
+2024/07/29-14:39:16.422 61db Generated table #388@1: 104693 keys, 2255675 bytes
+2024/07/29-14:39:16.872 61db Generated table #389@1: 70722 keys, 1522973 bytes
+2024/07/29-14:39:16.872 61db Compacted 1@1 + 8@2 files => 16932709 bytes
+2024/07/29-14:39:16.943 61db compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/07/29-14:39:16.944 61db Delete type=2 #372
+2024/07/29-14:39:16.944 61db Delete type=2 #371
+2024/07/29-14:39:16.944 61db Delete type=2 #378
+2024/07/29-14:39:16.944 61db Delete type=2 #376
+2024/07/29-14:39:16.944 61db Delete type=2 #377
+2024/07/29-14:39:16.944 61db Delete type=2 #375
+2024/07/29-14:39:16.944 61db Delete type=2 #373
+2024/07/29-14:39:16.944 61db Delete type=2 #381
+2024/07/29-14:39:16.944 61db Delete type=2 #374
