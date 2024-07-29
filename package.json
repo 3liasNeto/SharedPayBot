@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "nodemon",
     "build": "npx tsc",
-    "seed": "ts-node --transpile-only ./src/data/seed.ts"
+    "seed": "ts-node --transpile-only ./src/data/seed-example.ts"
   },
   "keywords": [],
   "author": "",
